@@ -12,7 +12,7 @@ const {
 router.route("/").get(getAllVtubers);
 router.route("/:id").get(getVtuber);
 router.route("/:id/like").put(likeVtuber);
-router.route("/:id/videos").put(updateVideos);
+router.route("/videos/:id").post(updateVideos);
 router.route("/generacion/:gen").get(getByGen);
 
 module.exports = router;

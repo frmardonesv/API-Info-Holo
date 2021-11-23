@@ -1,502 +1,699 @@
 [
   {
-    "nombre": "Tokino Sora",
-    "generacion": "Generacion 0",
-    "edad": 20,
-    "descripcion": "How's it going, Soratomos! It is Tokino Sora!",
-    "altura": 160,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053317/vtuber/Profile/generacion%200/sora_s6kzyi.jpg",
-    "cumpleaños": "12 de Mayo",
-    "debut": "2017/09/07",
-    "youtubeChannel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-    "twitter": "https://twitter.com/tokino_sora",
-    "videos": [],
+    "videos": [
+      {
+        "nombre": "フルアニメーションMV】リアルメランコリー",
+        "src": "ttrblFfxDr4",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636580367/vtuber/thumbnail/0-GEN/azki_cftpsr.webp"
+      }
+    ],
     "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Roboco",
-    "generacion": "Generacion 0",
-    "edad": 17,
-    "descripcion": "Hello-robo! Roboco here!",
-    "altura": 154,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053318/vtuber/Profile/generacion%200/roboco_eiex4a.jpg",
-    "cumpleaños": "23 de Mayo",
-    "debut": "2018/03/04",
-    "youtubeChannel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-    "twitter": "https://twitter.com/robocosan",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Sakura Miko",
-    "generacion": "Generacion 0",
-    "edad": 18,
-    "descripcion": "Nya-hello! It's Sakura Miko!",
-    "altura": 152,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053317/vtuber/Profile/generacion%200/miko_tw9ilp.jpg",
-    "cumpleaños": "5 de Marzo",
-    "debut": " 2018/08/01",
-    "youtubeChannel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-    "twitter": "https://twitter.com/sakuramiko35",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Hoishimachi Suisei",
-    "generacion": "Generacion 0",
-    "edad": 17,
-    "descripcion": "It's your shooting star, your diamond in the rough, idol VTuber Hoshimachi Suisei!",
-    "altura": 154,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053323/vtuber/Profile/generacion%200/suisei_t7ddj2.png",
-    "cumpleaños": "23 de Mayo",
-    "debut": "2018/03/22",
-    "youtubeChannel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-    "twitter": "https://twitter.com/suisei_hosimati",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
+    "comments": [],
     "nombre": "AZKi",
-    "generacion": "Generacion 0",
+    "originalName": "",
+    "generacion": "0-Gen",
     "edad": 18,
-    "descripcion": "A diva who became reborn into the virtual world in order to fabricate a new world.",
+    "descripcion": "Apart from singing, she likes to do ego-searching and browsing the Internet. She also regards herself as a person with persistence that keeps putting effort on her abilities. She is very kind and is always there to comfort her fellow members when they're upset.",
     "altura": 158,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053316/vtuber/Profile/generacion%200/azki_if8rxw.jpg",
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340328/vtuber/Profile/generacion%200/azki_jsnset.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593526/vtuber/Profile/generacion%200/azkiBg_g9z8kl.png",
     "cumpleaños": "1 de Julio",
     "debut": "2018/11/15",
     "youtubeChannel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-    "twitter": "https://twitter.com/AZKi_VDiVA",
-    "videos": [],
-    "likes": [],
-    "comments": []
+    "twitter": "https://twitter.com/AZKi_VDiVA"
   },
   {
-    "nombre": "Yozora Mel",
-    "generacion": "Primera Generacion",
-    "edad": 18,
-    "descripcion": "Sweet bites! It's Yozora Mel!",
-    "altura": 154,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053320/vtuber/Profile/primera%20generacion/mel_dxupmv.jpg",
-    "cumpleaños": "31 de Octubre",
-    "debut": "2018/05/13",
-    "youtubeChannel": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
-    "twitter": "https://twitter.com/yozoramel",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Shirakami Fubuki",
-    "generacion": "Primera Generacion",
-    "edad": 102,
-    "descripcion": "Foxy day to you! I'm Shirakami Fubuki!",
-    "altura": 155,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053318/vtuber/Profile/primera%20generacion/fubuki_b7hhct.jpg",
-    "cumpleaños": "5 de Octubre",
-    "debut": "2018/06/01",
-    "youtubeChannel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "twitter": "https://twitter.com/shirakamifubuki",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Natsuiro Matsuri",
-    "generacion": "Primera Generacion",
-    "edad": 16,
-    "descripcion": "Festival night! Natsuiro Matsuri is here!",
-    "altura": 152,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053319/vtuber/Profile/primera%20generacion/matsuri_evkolc.jpg",
-    "cumpleaños": "22 de Julio",
-    "debut": "2018/06/01",
-    "youtubeChannel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-    "twitter": "https://twitter.com/natsuiromatsuri",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Aki Rosenthal",
-    "generacion": "Primera Generacion",
-    "edad": 110,
-    "descripcion": "Alona, everyone! This is Aki Rosenthal a.k.a. AkiRose!",
-    "altura": 162,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053318/vtuber/Profile/primera%20generacion/aki_cdruro.jpg",
-    "cumpleaños": "17 de Febrero",
-    "debut": "2018/06/07",
-    "youtubeChannel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-    "twitter": "https://twitter.com/akirosenthal",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Akai Haato",
-    "generacion": "Primera Generacion",
-    "edad": 19,
-    "descripcion": "Welcome to your rouge awakening! This is Akai Haato!",
-    "altura": 154,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053320/vtuber/Profile/primera%20generacion/akai_q6hqox.jpg",
-    "cumpleaños": "10 de Agosto",
-    "debut": "2018/06/02",
-    "youtubeChannel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-    "twitter": "https://twitter.com/akaihaato",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Minato Aqua",
-    "generacion": "Segunda Generacion",
-    "edad": 18,
-    "descripcion": "A-quality day to one and all! I'm Minato Aqua!",
-    "altura": 148,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053316/vtuber/Profile/segunda%20generacion/aqua_yz8oer.jpg",
-    "cumpleaños": "1 de Diciembre",
-    "debut": "2018/08/08",
-    "youtubeChannel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-    "twitter": "https://twitter.com/minatoaqua",
     "videos": [
       {
-        "nombre": "Dadadada Tenshi!",
-        "thumb": "aqua1.jpg",
-        "src": ""
+        "nombre": "【BGM】NEW OP /ロボ子さんで音MAD【ループ推奨】",
+        "src": "Wmd1lt4uO_I",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636581159/vtuber/thumbnail/0-GEN/roboco_mndgvt.webp"
+      }
+    ],
+    "likes": ["hasu"],
+    "comments": [],
+    "nombre": "Roboco",
+    "originalName": "ロボ子さん",
+    "generacion": "0-Gen",
+    "edad": 17,
+    "descripcion": "Roboco is a robot girl who loves to pose. She has a killer instinct inside her. She is great at shooting except in video games, but likes to run over people in them. She hates when games try to surprise her. Her voice is spoken very calmly, almost a whisper.",
+    "altura": 154,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340328/vtuber/Profile/generacion%200/roboco_ecsilz.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593614/vtuber/Profile/generacion%200/robocoBg_pkrues.png",
+    "cumpleaños": "23 de Mayo",
+    "debut": "2018/03/04",
+    "youtubeChannel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+    "twitter": "https://twitter.com/robocosan"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【100万人記念に】みこちがやってきたぞっ - アカリがやってきたぞっ",
+        "src": "K57XcDsUl6A",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636581374/vtuber/thumbnail/0-GEN/sakura_il0xar.webp"
+      }
+    ],
+    "likes": ["francisco mardon"],
+    "comments": [],
+    "nombre": "Sakura Miko",
+    "originalName": "さくらみこ",
+    "generacion": "0-Gen",
+    "edad": 18,
+    "descripcion": "Miko is a self-proclaimed 'elite' gamer who is somewhat melodramatic and tends to become emotionally attached to NPCs and inanimate objects. Fans tend to use the term 'elite' ironically to highlight Miko's questionable decision-making skills as well as her tendency to speak garbled nonsense",
+    "altura": 152,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340329/vtuber/Profile/generacion%200/miko_v0zxzk.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593657/vtuber/Profile/generacion%200/mikoBg_crcbek.png",
+    "cumpleaños": "5 de Marzo",
+    "debut": " 2018/08/01",
+    "youtubeChannel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+    "twitter": "https://twitter.com/sakuramiko35"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【MMD公開】太陽系デスコ/ときのそら",
+        "src": "wHw3jSvZxNI",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636581374/vtuber/thumbnail/0-GEN/sora_o0e4jf.webp"
+      }
+    ],
+    "likes": ["francisco mardon"],
+    "comments": ["60fe4ab30e0a6f0fcc291638"],
+    "nombre": "Tokino Sora",
+    "originalName": "ときのそら",
+    "generacion": "0-Gen",
+    "edad": 20,
+    "descripcion": "Unlike many other idol groups in the industry, and like many others in hololive, nothing about Sora's personality is faking purity. In fact, even in rare less-than-pure instances, such as losing her temper, she is often toothless and harmless if a bit stern",
+    "altura": 160,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340328/vtuber/Profile/generacion%200/sora_vdc5wm.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594020/vtuber/Profile/generacion%200/soraBg_gf5you.png",
+    "cumpleaños": "12 de Mayo",
+    "debut": "2017/09/07",
+    "youtubeChannel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+    "twitter": "https://twitter.com/tokino_sora"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "GETCHA! / calliope × suisei(cover)",
+        "src": "EjlMPu5sEgw",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593152/vtuber/thumbnail/0-GEN/suisei_ukkene.webp"
       },
       {
-        "nombre": "Original Song",
-        "thumb": "aqua2.jpg",
-        "src": ""
-      },
-      {
-        "nombre": "Kase",
-        "thumb": "aqua3.jpg",
-        "src": ""
+        "nombre": "GHOST / 星街すいせい(official)",
+        "src": "IKKar5SS29E",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593213/vtuber/thumbnail/0-GEN/suisei2_bslrpa.webp"
       }
     ],
     "likes": [],
-    "comments": []
+    "comments": [],
+    "nombre": "Hoishimachi Suisei",
+    "originalName": "星街すいせい",
+    "generacion": "0-Gen",
+    "edad": 17,
+    "descripcion": "Suisei is a modest, multitalented singer and aspiring idol who is among the more level-headed members of hololive, though she also has a childish streak. After her unexpectedly compelling performance as a traitor in a game of Project Winter, she gained a reputation for remorseless sociopathy behind a facade of polite sweetness.",
+    "altura": 154,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340328/vtuber/Profile/generacion%200/suisei_wu8vgr.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593910/vtuber/Profile/generacion%200/suiseiBg_a3zibp.png",
+    "cumpleaños": "23 de Mayo",
+    "debut": "2018/03/22",
+    "youtubeChannel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+    "twitter": "https://twitter.com/suisei_hosimati"
   },
   {
-    "nombre": "Murasaki Shion",
-    "generacion": "Segunda Generacion",
-    "edad": 210,
-    "descripcion": "Hellshio! Murasaki Shion here!",
-    "altura": 145,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053316/vtuber/Profile/segunda%20generacion/shion_ynckrs.jpg",
-    "cumpleaños": "8 de Diciembre",
-    "debut": "2018/08/17",
-    "youtubeChannel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-    "twitter": "https://twitter.com/murasakishionch",
-    "videos": [],
+    "videos": [
+      {
+        "nombre": "【歌ってみた】グッバイ宣言 / 百鬼あやめ",
+        "src": "z1W4c7ym49Y",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636584357/vtuber/thumbnail/Segunda%20Gen/ayame_qfugrx.webp"
+      }
+    ],
     "likes": [],
-    "comments": []
-  },
-  {
+    "comments": [],
     "nombre": "Nakiri Ayame",
-    "generacion": "Segunda Generacion",
+    "originalName": "百鬼あやめ",
+    "generacion": "2-Gen",
     "edad": 1500,
-    "descripcion": "Greetings, humans! Nakiri Ayame has arrived!",
+    "descripcion": "Ayame is an oni who seems to talk to humans as if they are below her. However in spite of this, she is very friendly, playful and treats her audience equally to herself. Even sometimes looking up to humans she respects such as Houshou Marine to where she had difficulties approaching her.",
     "altura": 152,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053316/vtuber/Profile/segunda%20generacion/ayame_upzfvv.jpg",
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340379/vtuber/Profile/segunda%20generacion/ayame_lx2hk6.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593732/vtuber/Profile/segunda%20generacion/ayameBg_ioigcl.png",
     "cumpleaños": "13 de Diciembre",
     "debut": "2018/09/03",
     "youtubeChannel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-    "twitter": "https://twitter.com/nakiriayame",
-    "videos": [],
-    "likes": [],
-    "comments": []
+    "twitter": "https://twitter.com/nakiriayame"
   },
   {
-    "nombre": "Yuzuki Choco",
-    "generacion": "Segunda Generacion",
-    "edad": 350,
-    "descripcion": "Good evening, my cute students! It's your teacher, Choco!",
-    "altura": 165,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053316/vtuber/Profile/segunda%20generacion/choco_anjdrl.jpg",
-    "cumpleaños": "14 de Febrero",
-    "debut": "2018/09/05",
-    "youtubeChannel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-    "twitter": "https://twitter.com/yuzukichococh",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Oozora Subaru",
-    "generacion": "Segunda Generacion",
-    "edad": 17,
-    "descripcion": "Sup? I'm Oozora Subaru!",
-    "altura": 154,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053317/vtuber/Profile/segunda%20generacion/subaru_ytcezy.jpg",
-    "cumpleaños": "2 de Julio",
-    "debut": "2018/09/16",
-    "youtubeChannel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-    "twitter": "https://twitter.com/oozorasubaru",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Shirakami Fubuki",
-    "generacion": "Generacion Gamers",
-    "edad": 102,
-    "descripcion": "Foxy day to you! I'm Shirakami Fubuki!",
-    "altura": 155,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053318/vtuber/Profile/primera%20generacion/fubuki_b7hhct.jpg",
-    "cumpleaños": "5 de Octubre",
-    "debut": "2018/06/01",
-    "youtubeChannel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-    "twitter": "https://twitter.com/shirakamifubuki",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Ookami Mio",
-    "generacion": "Generacion Gamers",
-    "edad": 98,
-    "descripcion": "Hellooowl! It is Ookami Mio!",
-    "altura": 155,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053319/vtuber/Profile/generacion%20gamers/mio_xikxt1.jpg",
-    "cumpleaños": "20 de Agosto",
-    "debut": "2018/12/07",
-    "youtubeChannel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-    "twitter": "https://twitter.com/ookamimio",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Nekomata Okayu",
-    "generacion": "Generacion Gamers",
-    "edad": 16,
-    "descripcion": "Om, nom, nom! Okayu time!",
-    "altura": 152,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053319/vtuber/Profile/generacion%20gamers/okayu_dtqesc.jpg",
-    "cumpleaños": "22 de Febrero",
-    "debut": "2019/04/06",
-    "youtubeChannel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-    "twitter": "https://twitter.com/nekomataokayu",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Inugami Korone",
-    "generacion": "Generacion Gamers",
-    "edad": 92,
-    "descripcion": "G'morning! Fingers! Give me your fingers!!",
-    "altura": 156,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053318/vtuber/Profile/generacion%20gamers/korone_jrw2jt.jpg",
-    "cumpleaños": "1 de Octubre",
-    "debut": "2019/04/13",
-    "youtubeChannel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-    "twitter": "https://twitter.com/inugamikorone",
     "videos": [
       {
-        "nombre": "Eekum bokum",
-        "thumb": "koro1.jpg",
-        "src": ""
-      },
-      {
-        "nombre": "Soap",
-        "thumb": "koro2.jpg",
-        "src": ""
-      },
-      {
-        "nombre": "OkaKoro",
-        "thumb": "koro3.jpg",
-        "src": ""
+        "nombre": "「おとなの掟」",
+        "src": "ESM-OniA96w",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592915/vtuber/thumbnail/gamers/mion_ngfzch.webp"
       }
     ],
     "likes": [],
-    "comments": []
+    "comments": [],
+    "nombre": "Ookami Mio",
+    "originalName": "大神ミオ",
+    "generacion": "Gamers",
+    "edad": 98,
+    "descripcion": "Mio is frequently described by fans and other hololivers as being mature, responsible and level-headed when compared to her peers. In the holo no graffiti animated shorts Mio is frequently seen playing the part of the 'straight-man', reacting comparatively like a real person would to her coworkers' absurd shenanigans or the onset of surreal situations",
+    "altura": 155,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340450/vtuber/Profile/generacion%20gamers/mio_ji9fqt.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593797/vtuber/Profile/generacion%20gamers/mionBg_az1gjh.png",
+    "cumpleaños": "20 de Agosto",
+    "debut": "2018/12/07",
+    "youtubeChannel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+    "twitter": "https://twitter.com/ookamimio"
   },
   {
-    "nombre": "Usada Pekora",
-    "generacion": "Tercera Generacion",
-    "edad": 111,
-    "descripcion": "Hiya-peko! Hiya-peko! Hiya-pekooo! I'm Usada Pekora, peko!",
-    "altura": 153,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1625710441/vtuber/Profile/Tercera%20Generaci%C3%B3n/pekora_qfqpah.jpg",
-    "cumpleaños": "12 de Enero",
-    "debut": "2019/07/17",
-    "youtubeChannel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-    "twitter": "https://twitter.com/usadapekora",
     "videos": [
       {
-        "nombre": "shut up bitch!",
-        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626490823/vtuber/thumbnail/Tercera%20generacion/Pekora/peko1_pm7ifl.jpg",
-        "src": "https://www.youtube.com/watch?v=yLRv0b6wJlA"
+        "nombre": "恋愛裁判",
+        "src": "G49bAinM6Lc",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592777/vtuber/thumbnail/gamers/korone_gfzkkx.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Inugami Korone",
+    "originalName": "戌神ころね",
+    "generacion": "Gamers",
+    "edad": 92,
+    "descripcion": "Korone's greeting her viewers with 'Yubi! Yubi!' which originated from her desire to have her own unique greeting. During her first stream with the other members of hololive Gamers, Korone noticed that she was the only one out of the group that didn't have her own greeting",
+    "altura": 156,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340450/vtuber/Profile/generacion%20gamers/korone_tk1a4c.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593846/vtuber/Profile/generacion%20gamers/koroneBg_lefexf.png",
+    "cumpleaños": "1 de Octubre",
+    "debut": "2019/04/13",
+    "youtubeChannel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+    "twitter": "https://twitter.com/inugamikorone"
+  },
+
+  {
+    "videos": [
+      {
+        "nombre": "【あてぃし】ヴァンパイア／湊あくあ",
+        "src": "rbPa0Qp3zJQ",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636584585/vtuber/thumbnail/Segunda%20Gen/aqua_l1st78.webp"
       },
+      {
+        "nombre": "【Original Song】#Aquairo Palette",
+        "src": "1WgthntYePQ",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636584778/vtuber/thumbnail/Segunda%20Gen/aqua2_mgacxr.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Minato Aqua",
+    "originalName": "湊あくあ",
+    "generacion": "2-Gen",
+    "edad": 18,
+    "descripcion": "qua is a bumbling airhead who somehow manages to become the victim of every joke in which she gets involved. She is also childish and prone to throwing tantrums, smashing her keyboard, and hyperventilating when things don't go as planned (which is most of the time). She enjoys playing pranks and causing mischief, but it almost always backfires because of a combination of poor planning and bad luck.",
+    "altura": 148,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340379/vtuber/Profile/segunda%20generacion/aqua_wwztlu.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593981/vtuber/Profile/segunda%20generacion/aquaBg_u30kvj.png",
+    "cumpleaños": "1 de Diciembre",
+    "debut": "2018/08/08",
+    "youtubeChannel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+    "twitter": "https://twitter.com/minatoaqua"
+  },
+
+  {
+    "videos": [
+      {
+        "nombre": "吸血鬼が歌う-ヴァンパイア-/夜空メル(cover)",
+        "src": "tftbi551s8Q",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636583841/vtuber/thumbnail/Primera%20Generacion/mel_av8v1m.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Yozora Mel",
+    "originalName": "夜空メル",
+    "generacion": "1st-Gen",
+    "edad": 18,
+    "descripcion": "Yozora Mel is known for her sweet, calm and caring personality, giving a contrast to what people might expect from her design. She commonly puts others before herself if it means they will benefit from it. She speaks politely and gives a comfy vibe, but also speaks quietly, which can make it difficult to hear her sometimes",
+    "altura": 154,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340354/vtuber/Profile/primera%20generacion/mel_jjygr6.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594092/vtuber/Profile/primera%20generacion/melBg_ww4ggu.png",
+    "cumpleaños": "31 de Octubre",
+    "debut": "2018/05/13",
+    "youtubeChannel": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+    "twitter": "https://twitter.com/yozoramel"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "馬と鹿 - 米津玄師",
+        "src": "tGXZNHNhI0I",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592237/vtuber/thumbnail/cuarta%20gen/kanata_gtgraf.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Amane Kanata",
+    "originalName": "天音かなた",
+    "generacion": "4-Gen",
+    "edad": 18,
+    "descripcion": "Kanata is an angelic denizen currently studying at the Heaven Academy to become a full-fledged angel. She is currently 18 years old. (She specifies that this is her 'angel age', but has stated in past streams that this is the same as her human age.)",
+    "altura": 149,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340432/vtuber/Profile/cuarta%20generacion/kanata_mj1sho.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594175/vtuber/Profile/cuarta%20generacion/kanataBg_z7l3zr.png",
+    "cumpleaños": "22 de Abril",
+    "debut": "2019/12/27",
+    "youtubeChannel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+    "twitter": "https://twitter.com/amanekanatach"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "ヴァンパイア／Covered by紫咲シオン",
+        "src": "jso4f52Pl6Y",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636584885/vtuber/thumbnail/Segunda%20Gen/shion_kvtxh7.webp"
+      }
+    ],
+    "likes": [],
+    "comments": ["60fcd4de891625574063e955", "60fde123924bf53b285a218e"],
+    "nombre": "Murasaki Shion",
+    "originalName": "紫咲シオン",
+    "generacion": "2-Gen",
+    "edad": 210,
+    "descripcion": "Shion is a smug, cheeky brat (kusogaki) who speaks bluntly without the usual politeness/consideration associated with the Japanese language, and flirts shamelessly with other hololive members. She wants to be seen as an adult, but thanks to her childish appearance and mannerisms, all attempts by Shion to appear adult-like end up looking very silly",
+    "altura": 145,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340379/vtuber/Profile/segunda%20generacion/shion_uwue1f.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594233/vtuber/Profile/segunda%20generacion/shionBg_hpr7xi.png",
+    "cumpleaños": "8 de Diciembre",
+    "debut": "2018/08/17",
+    "youtubeChannel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+    "twitter": "https://twitter.com/murasakishionch"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "Say!ファンファーレ!/白上フブキ【オリジナル曲】",
+        "src": "pFgUluV_00s",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636583940/vtuber/thumbnail/Primera%20Generacion/fubuki_stygnq.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Shirakami Fubuki",
+    "originalName": "白上フブキ",
+    "generacion": "Gamers",
+    "edad": 102,
+    "descripcion": "Fubuki is usually always cheerful and excited, singing little songs and making many in-jokes. She is shy when confronted with new circumstances, and when embarrassed she 'hides' at the bottom of the screen with only her fox ears peeking up. ",
+    "altura": 155,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340354/vtuber/Profile/primera%20generacion/fubuki_dvatt2.png",
+    "bgAvatar": "",
+    "cumpleaños": "5 de Octubre",
+    "debut": "2018/06/01",
+    "youtubeChannel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "twitter": "https://twitter.com/shirakamifubuki"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "Say!ファンファーレ!/白上フブキ【オリジナル曲】",
+        "src": "pFgUluV_00s",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636583940/vtuber/thumbnail/Primera%20Generacion/fubuki_stygnq.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Shirakami Fubuki",
+    "originalName": "白上フブキ",
+    "generacion": "1st-Gen",
+    "edad": 102,
+    "descripcion": "Fubuki is usually always cheerful and excited, singing little songs and making many in-jokes. She is shy when confronted with new circumstances, and when embarrassed she 'hides' at the bottom of the screen with only her fox ears peeking up. ",
+    "altura": 155,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340354/vtuber/Profile/primera%20generacion/fubuki_dvatt2.png",
+    "bgAvatar": "",
+    "cumpleaños": "5 de Octubre",
+    "debut": "2018/06/01",
+    "youtubeChannel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+    "twitter": "https://twitter.com/shirakamifubuki"
+  },
+
+  {
+    "videos": [
+      {
+        "nombre": "怪物／不知火フレア(Cover)",
+        "src": "u5r8B1fDB8g",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636591558/vtuber/thumbnail/tercera%20gen/flare_bfll9k.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Shiranui Flare",
+    "originalName": "不知火フレア",
+    "generacion": "3-Gen",
+    "edad": 221,
+    "descripcion": "Flare is a kind and extremely humble individual, almost to a fault. Her kindness is vouched for most often by the other hololive Fantasy members, which has resulted in her so-called 'harem,' with Pekora being an exception. However, out of the four members in hololive Fantasy, it remains to be Noel who is the most blatant in her affection.",
+    "altura": 158,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340400/vtuber/Profile/Tercera%20Generaci%C3%B3n/flare_huc4vb.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594381/vtuber/Profile/Tercera%20Generaci%C3%B3n/flareBg_jjtypm.png",
+    "cumpleaños": "2 de Abril",
+    "debut": "2019/08/07",
+    "youtubeChannel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+    "twitter": "https://twitter.com/shiranuiflare"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "Luna's Birthday Live",
+        "src": "cEJGu0wlFt8",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592354/vtuber/thumbnail/cuarta%20gen/luna_hdqxix.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Himemori Luna",
+    "originalName": "姫森ルーナ",
+    "generacion": "4-Gen",
+    "edad": 0,
+    "descripcion": "Luna has a sweet and innocent personality, although due of her status as the Princess of Candy Kingdom and as the youngest hololive member, she is a bit pampered and always asks for the older hololive members' attention, especially Natsuiro Matsuri's. Luna also showed hints of sadism and yandere personalities traits although it's not that prominent.",
+    "altura": 140,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340432/vtuber/Profile/cuarta%20generacion/luna_whagtd.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594441/vtuber/Profile/cuarta%20generacion/lunaBg_qhvk9f.png",
+    "cumpleaños": "10 de Octubre",
+    "debut": "2020/01/04",
+    "youtubeChannel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+    "twitter": "https://twitter.com/himemoriluna"
+  },
+
+  {
+    "videos": [
+      {
+        "nombre": "1st Single 【 REDHEART 】",
+        "src": "A9HY4DsRTCg",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636584058/vtuber/thumbnail/Primera%20Generacion/akai_hsmlen.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Akai Haato",
+    "originalName": "赤井はあと",
+    "generacion": "1st-Gen",
+    "edad": 19,
+    "descripcion": "Haato appears to be a classic tsundere who teases her fans by calling them kimo ota (creepy otaku),among other things and sometimes flusters easily. She is mostly calm to where others can find relaxation in her streams, with Minecraft specifically of note.",
+    "altura": 154,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340354/vtuber/Profile/primera%20generacion/haachama_o3sszt.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594494/vtuber/Profile/primera%20generacion/haachamaBg_o408dl.png",
+    "cumpleaños": "10 de Agosto",
+    "debut": "2018/06/02",
+    "youtubeChannel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+    "twitter": "https://twitter.com/akaihaato"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【original】ChocoLove/癒月ちょこ",
+        "src": "jlELf83gpBw",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636585001/vtuber/thumbnail/Segunda%20Gen/choco_q2egbd.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Yuzuki Choco",
+    "originalName": "癒月ちょこ",
+    "generacion": "2-Gen",
+    "edad": 350,
+    "descripcion": "With a way of speaking that blurs the line between maternity and seduction, Choco is as sweet as her name suggests. Because she blurs the line between erotic and motherliness so much to the verge of pointless nitpicking and is so unapologetically feminine as a result, she has caused various confusion and mixed responses as to how others see her",
+    "altura": 165,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340379/vtuber/Profile/segunda%20generacion/choco_hahdiv.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594557/vtuber/Profile/segunda%20generacion/chocoBg_heivek.png",
+    "cumpleaños": "14 de Febrero",
+    "debut": "2018/09/05",
+    "youtubeChannel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+    "twitter": "https://twitter.com/yuzukichococh"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【歌ってみた】花に亡霊 / ヨルシカ",
+        "src": "UBSx4qqeikY&t",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636591703/vtuber/thumbnail/tercera%20gen/rushia_tizouk.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Uruha Rushia",
+    "originalName": "潤羽るしあ",
+    "generacion": "3-Gen",
+    "edad": 20,
+    "descripcion": "Rushia is a somewhat naive girl who is soft-spoken yet easily excitable. While she is usually innocent and sweet-sounding, she can occasionally become enraged and scream in an uncharacteristically beast-like manner before regaining her composure (for example, while playing Dark Souls or Mario Kart). ",
+    "altura": 143,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340400/vtuber/Profile/Tercera%20Generaci%C3%B3n/rushia_fdpj2g.png",
+    "bgAvatar": "",
+    "cumpleaños": "22 de Enero",
+    "debut": "2019/07/18",
+    "youtubeChannel": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ",
+    "twitter": "https://twitter.com/uruharushia"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "-ERROR/常闇トワ(cover)",
+        "src": "3UV8OZj2olg",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592423/vtuber/thumbnail/cuarta%20gen/towa_k1gmer.webp"
+      },
+      {
+        "nombre": "Palette/常闇トワ",
+        "src": "Ud73fm4Uoq0",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592485/vtuber/thumbnail/cuarta%20gen/towa2_q72bjc.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Tokoyami Towa",
+    "originalName": "常闇トワ",
+    "generacion": "4-Gen",
+    "edad": 17,
+    "descripcion": "Despite being a Devil, Towa is a sweet, kind-hearted, down to earth girl, which has caused many of her fans to insist that she is an Angel instead. Towa usually gets annoyed by this and insists she is a Devil and does not like angels. She doesn't truly mean it as she likes Kanata. Her streams are usually wholesome and relaxing.",
+    "altura": 150,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340432/vtuber/Profile/cuarta%20generacion/towa_tdoqsr.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594658/vtuber/Profile/cuarta%20generacion/towaBg_pk1pnd.png",
+    "cumpleaños": "8 de Agosto",
+    "debut": "2020/01/03",
+    "youtubeChannel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+    "twitter": "https://twitter.com/tokoyamitowa"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "心做し / 夏色まつり cover",
+        "src": "MNcnT8wBcdw",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636584164/vtuber/thumbnail/Primera%20Generacion/matsuri_egt2vs.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Natsuiro Matsuri",
+    "originalName": "夏色まつり",
+    "generacion": "1st-Gen",
+    "edad": 16,
+    "descripcion": "Matsuri is an energetic, expressive, and sometimes chaotic cheerleader girl who is bubbly as a festival. She is known for certain viral moments like wearing band-aids to school instead of bras, posting her own take of a popular internet copypasta video on Shirakami Fubuki's Twitter.",
+    "altura": 152,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340354/vtuber/Profile/primera%20generacion/matsuri_t0d828.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594712/vtuber/Profile/primera%20generacion/matsuriBg_xiucpi.png",
+    "cumpleaños": "22 de Julio",
+    "debut": "2018/06/01",
+    "youtubeChannel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+    "twitter": "https://twitter.com/natsuiromatsuri"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【うたみた】恋の魔法【ホロライブ/大空スバル",
+        "src": "t-Y-UnC2HQo",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636585099/vtuber/thumbnail/Segunda%20Gen/subaru_teign6.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Oozora Subaru",
+    "originalName": "大空スバル",
+    "generacion": "2-Gen",
+    "edad": 17,
+    "descripcion": "Subaru has a stereotypical tomboyish appearance, accentuated by her short hair, and her baseball fan attires, with a red with white cap turned backwards, a white and yellow-striped jersey, accompanied by a blue pea whistle, white and red shorts, a pair of thigh high socks, one white and the other red, and a pair of white tennis shoes with yellow laces.",
+    "altura": 154,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340379/vtuber/Profile/segunda%20generacion/subaru_v6jhw2.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594762/vtuber/Profile/segunda%20generacion/subaruBg_spmch3.png",
+    "cumpleaños": "2 de Julio",
+    "debut": "2018/09/16",
+    "youtubeChannel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+    "twitter": "https://twitter.com/oozorasubaru"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "flos / 猫又おかゆ (Cover)",
+        "src": "4muYzftomAE&",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636593026/vtuber/thumbnail/gamers/okayu_yxd9t5.webp"
+      }
+    ],
+    "likes": ["francisco mardon"],
+    "comments": [],
+    "nombre": "Nekomata Okayu",
+    "originalName": "猫又おかゆ",
+    "generacion": "Gamers",
+    "edad": 16,
+    "descripcion": "Okayu is typically very relaxed, free-spirited, and also somewhat of a playboy or prankster. She sometimes flirts openly with other hololive members just to see their reactions and is also known for impulsively swiping food. She never denies her wrongdoings and was handed a guilty verdict in several 'Okayu Court' cases, after which she obediently served her sentence. ",
+    "altura": 152,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340450/vtuber/Profile/generacion%20gamers/okayu_fpiqfg.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594808/vtuber/Profile/generacion%20gamers/okayuBg_h79r3z.png",
+    "cumpleaños": "22 de Febrero",
+    "debut": "2019/04/06",
+    "youtubeChannel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+    "twitter": "https://twitter.com/nekomataokayu"
+  },
+  {
+    "videos": [
       {
         "nombre": "Discommunication alien",
         "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626490821/vtuber/thumbnail/Tercera%20generacion/Pekora/peko2_ktewa8.jpg",
         "src": "https://www.youtube.com/watch?v=AAr2lHZLNyU"
-      },
-      {
-        "nombre": "Arigatou Peko~",
-        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626490822/vtuber/thumbnail/Tercera%20generacion/Pekora/peko3_ygtvns.jpg",
-        "src": "https://www.youtube.com/watch?v=swGNEJ56EFI"
       }
     ],
-    "likes": [],
-    "comments": []
+    "likes": ["francisco mardon", "hasu"],
+    "comments": [
+      "60ff752336b4c51bacf90bf8",
+      "6100dc0935196a09102132a0",
+      "6100dc2535196a09102132a9",
+      "610a243fafce7423283974f6"
+    ],
+    "nombre": "Usada Pekora",
+    "originalName": "兎田ぺこら",
+    "generacion": "3-Gen",
+    "edad": 111,
+    "descripcion": "Pekora hails from the nation of Pekoland, where she claims she is a member of royalty. While not much is currently known about Pekoland, it is assumed that its denizens are, like Pekora, Animals humans with rabbit-ears and comparatively long lifespans",
+    "altura": 153,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340400/vtuber/Profile/Tercera%20Generaci%C3%B3n/pekora_m18mmh.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636344330/vtuber/Profile/Tercera%20Generaci%C3%B3n/pekoBg_z1xg2c.png",
+    "cumpleaños": "12 de Enero",
+    "debut": "2019/07/17",
+    "youtubeChannel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+    "twitter": "https://twitter.com/usadapekora"
   },
   {
-    "nombre": "Houshou Marine",
-    "generacion": "Tercera Generacion",
-    "edad": 17,
-    "descripcion": "Ahoy! Houshou Pirate Captain, Houshou Marine here!",
-    "altura": 150,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1625710443/vtuber/Profile/Tercera%20Generaci%C3%B3n/marine_id9qmu.jpg",
-    "cumpleaños": "30 de Julio",
-    "debut": "2019/08/11",
-    "youtubeChannel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-    "twitter": "https://twitter.com/houshoumarine",
     "videos": [
       {
-        "nombre": "I'm Horny!",
-        "thumb": "mari1.jpg",
-        "src": ""
-      },
-      {
         "nombre": "Original Song",
-        "thumb": "marin2.jpg",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1635019367/vtuber/thumbnail/Tercera%20generacion/Marine/mari2_mjhhnc.jpg",
         "src": "https://www.youtube.com/watch?v=e7VK3pne8N4&t=11s&ab_channel=RAFERAFE"
       },
       {
-        "nombre": "Idol Step!",
-        "thumb": "mari3.jpg",
-        "src": "https://www.youtube.com/watch?v=2-aFqaFlJbY&ab_channel=RendesuyoRendesuyo"
+        "nombre": "【Original Animation MV】Unison",
+        "src": "_VIeV_LZXHM",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636591962/vtuber/thumbnail/tercera%20gen/marine2_golvuf.webp"
+      }
+    ],
+    "likes": ["francisco mardon", "hasu"],
+    "comments": ["60fe2970c58898570ce20706"],
+    "nombre": "Houshou Marine",
+    "originalName": "宝鐘マリン",
+    "generacion": "3-Gen",
+    "edad": 17,
+    "descripcion": "Marine is a bold, fast-talking girl who often throws caution to the wind, making obscene jokes and playfully mocking both her higher-ups and her viewers. Marine describes her way of approaching people is through to talk to them so she may get in their circle, as described when talking about the differences between herself and Nakiri Ayame.",
+    "altura": 150,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340400/vtuber/Profile/Tercera%20Generaci%C3%B3n/marine_mh5euv.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636578119/vtuber/Profile/Tercera%20Generaci%C3%B3n/marinBg_osss6r.png",
+    "cumpleaños": "30 de Julio",
+    "debut": "2019/08/11",
+    "youtubeChannel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+    "twitter": "https://twitter.com/houshoumarine"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "Everlasting Soul／角巻わため",
+        "src": "5KsXVs8Vg7U&",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592583/vtuber/thumbnail/cuarta%20gen/watame_yfspms.webp"
       }
     ],
     "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Uruha Rushia",
-    "generacion": "Tercera Generacion",
-    "edad": 20,
-    "descripcion": "Hel-rushi! This is Uruha Rushia!",
-    "altura": 143,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1625710442/vtuber/Profile/Tercera%20Generaci%C3%B3n/rushia_rf4d9f.jpg",
-    "cumpleaños": "22 de Enero",
-    "debut": "2019/07/18",
-    "youtubeChannel": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ",
-    "twitter": "https://twitter.com/uruharushia",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Shirogane Noel",
-    "generacion": "Tercera Generacion",
-    "edad": 18,
-    "descripcion": "Hey muscle! Shirogane Noel's here!",
-    "altura": 158,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1625710441/vtuber/Profile/Tercera%20Generaci%C3%B3n/noel_jzykhm.jpg",
-    "cumpleaños": "24 de Noviembre",
-    "debut": "2019/08/08",
-    "youtubeChannel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-    "twitter": "https://twitter.com/shiroganenoel",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Shiranui Flare",
-    "generacion": "Tercera Generacion",
-    "edad": 221,
-    "descripcion": "Noon-nui! This is Shiranui Flare!",
-    "altura": 158,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1625710442/vtuber/Profile/Tercera%20Generaci%C3%B3n/flare_tkbkmt.png",
-    "cumpleaños": "2 de Abril",
-    "debut": "2019/08/07",
-    "youtubeChannel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-    "twitter": "https://twitter.com/shiranuiflare",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
+    "comments": [],
     "nombre": "Tsunomaki Watame",
-    "generacion": "Cuarta Generacion",
+    "originalName": "角巻わため",
+    "generacion": "4-Gen",
     "edad": 4,
-    "descripcion": "A sheep bard that goes around everywhere. She loves singing and is fluffy! YES! FLUFFY! Being a herbivore, she loves potato chips.",
+    "descripcion": "Watame speaks in a pleasant tone befitting her image of a soft fluffy sheep. Her voice has been noted by fans to be especially soft, mature and womanly. However, in direct contrast to this image, Watame often amuses herself by making crazed facial expressions. Her wide-eyed, psychotic smile has become iconic on her channel, even appearing on some of her official merchandise (a double-sided pillow cover)",
     "altura": 151,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053626/vtuber/Profile/cuarta%20generacion/watame_sd9lrs.jpg",
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340432/vtuber/Profile/cuarta%20generacion/watame_yn47ml.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594861/vtuber/Profile/cuarta%20generacion/watameBg_g7zqax.png",
     "cumpleaños": "6 de Junio",
     "debut": "2019/12/29",
     "youtubeChannel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-    "twitter": "https://twitter.com/tsunomakiwatame",
-    "videos": [],
-    "likes": [],
-    "comments": []
+    "twitter": "https://twitter.com/tsunomakiwatame"
   },
   {
-    "nombre": "Tokoyami Towa",
-    "generacion": "Cuarta Generacion",
-    "edad": 17,
-    "descripcion": "In order to become an archdemon, she joined the human society for further studies.",
-    "altura": 150,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053626/vtuber/Profile/cuarta%20generacion/towa_pxqeg6.jpg",
-    "cumpleaños": "8 de Agosto",
-    "debut": "2020/01/03",
-    "youtubeChannel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-    "twitter": "https://twitter.com/tokoyamitowa",
-    "videos": [],
+    "videos": [
+      {
+        "nombre": "Weather Hackers",
+        "src": "khRDaLiyGdA",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592663/vtuber/thumbnail/cuarta%20gen/coco_vxsvv9.webp"
+      }
+    ],
     "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Amane Kanata",
-    "generacion": "Cuarta Generacion",
-    "edad": 18,
-    "descripcion": "An angel from the Angelic-Realm Institution. She is now studying how to heal people.",
-    "altura": 149,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053626/vtuber/Profile/cuarta%20generacion/kanata_mrpo5w.jpg",
-    "cumpleaños": "22 de Abril",
-    "debut": "2019/12/27",
-    "youtubeChannel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-    "twitter": "https://twitter.com/amanekanatach",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
-    "nombre": "Himemori Luna",
-    "generacion": "Cuarta Generacion",
-    "edad": 0,
-    "descripcion": "The princess of sweets. She sticks around people, and is easily impressed. However, when her childishness overloads, she will get scolded by her butler",
-    "altura": 140,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053627/vtuber/Profile/cuarta%20generacion/luna_ytfme6.jpg",
-    "cumpleaños": "10 de Octubre",
-    "debut": "2020/01/04",
-    "youtubeChannel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-    "twitter": "https://twitter.com/himemoriluna",
-    "videos": [],
-    "likes": [],
-    "comments": []
-  },
-  {
+    "comments": [],
     "nombre": "Kiryu Coco",
-    "generacion": "Cuarta Generacion",
+    "originalName": "桐生ココ",
+    "generacion": "4-Gen",
     "edad": 3502,
-    "descripcion": "A child dragon (3,500 years old is young in dragon years) who is fond of human culture. She traveled from another universe to ours, just to study Japanese in a random language school",
+    "descripcion": "She was famous for pushing the boundaries of what VTubers can get away with on YouTube, that Houshou Marine named these boundaries the 'Kiryu Coco line'. Examples including thumbnails flipping the bird and references to drug use, among other questionable content.",
     "altura": 180,
-    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1626053626/vtuber/Profile/cuarta%20generacion/coco_cy62ev.webp",
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340432/vtuber/Profile/cuarta%20generacion/coco_mktfpb.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594904/vtuber/Profile/cuarta%20generacion/cocoBg_nl1voi.png",
     "cumpleaños": "17 de Junio",
     "debut": "2019/12/28",
     "youtubeChannel": "https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w",
     "retirada": true,
-    "twitter": "https://twitter.com/kiryucoco",
-    "videos": [],
+    "twitter": "https://twitter.com/kiryucoco"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【3DMV】シャルイース /Aki Rosenthal",
+        "src": "Ii7rtNaGlls",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636583584/vtuber/thumbnail/Primera%20Generacion/aki_lus1xn.webp"
+      }
+    ],
     "likes": [],
-    "comments": []
+    "comments": [],
+    "nombre": "Aki Rosenthal",
+    "originalName": "アキ・ローゼンタール",
+    "generacion": "1st-Gen",
+    "edad": 110,
+    "descripcion": "Aki is a curious, fun-loving, friendly and determined high school, half elf girl[6] from another universe with a very calm voice and attitude, she enjoys singing and belly dancing; hobbies that can be seen combined in her original song 'Shallys'. Aki's streams are considered chill and wholesome, this can be seen in her gaming streams as it is rare for her to lose her temper.",
+    "altura": 162,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340354/vtuber/Profile/primera%20generacion/aki_z6cp8q.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636594957/vtuber/Profile/primera%20generacion/akiBg_d0rexb.png",
+    "cumpleaños": "17 de Febrero",
+    "debut": "2018/06/07",
+    "youtubeChannel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+    "twitter": "https://twitter.com/akirosenthal"
+  },
+  {
+    "videos": [
+      {
+        "nombre": "【original】ほめのび",
+        "src": "LMYIam2RFkg",
+        "thumb": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636592054/vtuber/thumbnail/tercera%20gen/noel_wwe4d1.webp"
+      }
+    ],
+    "likes": [],
+    "comments": [],
+    "nombre": "Shirogane Noel",
+    "originalName": "白銀ノエル",
+    "generacion": "3-Gen",
+    "edad": 18,
+    "descripcion": "Noel is a clumsy but mostly wholesome knight, with a more girlish voice than her appearance would suggest (though she can pull out a mature older sister voice if the occasion calls for it). She often streams video games, but is rarely seen actually doing well in them.",
+    "altura": 158,
+    "avatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636340400/vtuber/Profile/Tercera%20Generaci%C3%B3n/noel_axmch2.png",
+    "bgAvatar": "https://res.cloudinary.com/usadapekorapeko/image/upload/v1636595011/vtuber/Profile/Tercera%20Generaci%C3%B3n/noelBg_dsrrvs.png",
+    "cumpleaños": "24 de Noviembre",
+    "debut": "2019/08/08",
+    "youtubeChannel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+    "twitter": "https://twitter.com/shiroganenoel"
   }
 ]

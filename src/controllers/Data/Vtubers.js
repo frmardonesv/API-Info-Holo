@@ -3,8 +3,8 @@ const Vtubers = require("../../models/Vtubers");
 const getAllVtubers = async (req, res) => {
   try {
     const vtubers = await Vtubers.find(
-      {},
-      { _id: 1, nombre: 1, avatar: 1, generacion: 1 }
+      {}
+      // { _id: 1, nombre: 1, avatar: 1, generacion: 1 }
     );
     res.json(vtubers);
   } catch (error) {

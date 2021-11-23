@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "data:import": "node src/poblacion.js"
+    "data:import": "node src/poblacion.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -15,12 +16,18 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "express-rate-limit": "^5.5.1",
+    "helmet": "^4.6.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.3",
     "morgan": "^1.10.0",
-    "nodemailer": "^6.6.3"
+    "nodemailer": "^6.6.3",
+    "xss-clean": "^0.1.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }

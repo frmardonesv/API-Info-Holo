@@ -5,6 +5,9 @@ const VtubersSchema = new mongoose.Schema({
     type: String,
     required: [true, "Por favor ingresa un nombre"],
   },
+  originalName: {
+    type: String,
+  },
   generacion: {
     type: String,
     required: [true, "Por favor ingresa una generación"],
@@ -24,6 +27,9 @@ const VtubersSchema = new mongoose.Schema({
   avatar: {
     type: String,
     required: [true, "Por favor ingresa una url"],
+  },
+  bgAvatar: {
+    type: String,
   },
   cumpleaños: {
     type: String,

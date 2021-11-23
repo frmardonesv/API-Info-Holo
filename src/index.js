@@ -5,6 +5,12 @@ const cors = require("cors");
 const errorHandler = require("./middleware/error");
 const app = express();
 
+// Security
+
+const helmet = require("helmet");
+const xss = require("xss-clean");
+const rateLimiter = require("express-rate-limit");
+
 // Connect DB
 
 connectDB();
@@ -13,14 +19,28 @@ connectDB();
 const auth = require("./routes/auth.js");
 const vtubers = require("./routes/vtubers");
 const private = require("./routes/private.js");
-const comment = require("./routes/comment.js");
 
 // middleware
 
-app.use(cors());
 app.use(express.json());
 
+app.set("trust proxy", 1);
+app.use(
+  rateLimiter({
+    windowMs: 15 * 60 * 1000, // 15 minutes
+    max: 100, // limit each IP to 100 requests per windowMs
+  })
+);
+app.use(helmet());
+app.use(cors());
+app.use(xss());
+
+app.get("/", (req, res) => {
+  res.send("HoloFans API");
+});
+
 // LOGIN
+
 app.use("/api/auth", auth);
 app.use("/api/private", private);
 
@@ -29,8 +49,6 @@ app.use("/api/private", private);
 app.use("/api/vtubers", vtubers);
 
 // Comments
-
-app.use("/api/comment", comment);
 
 // Error Handler (Last piece of middleware)
 app.use(errorHandler);
